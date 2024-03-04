@@ -1,1 +1,1 @@
-blocks qui formeron 
+blocks qui formeron le chemin de translation pour les axe
