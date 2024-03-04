@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71c4e39cad73b3f1",
+        "id": "24574043737d5390",
         "type": "tabs",
         "children": [
           {
-            "id": "2eb28c6615796bdc",
+            "id": "6565edb1ccdf90fa",
             "type": "leaf",
             "state": {
               "type": "diff-view",
@@ -149,10 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00cfc21463838d1e",
+  "active": "6565edb1ccdf90fa",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "notes/block/component/supention.md",
-    "notes/multiblocl machine/quary.md",
-    "Untitled.canvas"
+    "notes/multiblocl machine/quary.md"
   ]
 }
