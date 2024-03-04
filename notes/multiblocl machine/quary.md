@@ -17,4 +17,4 @@ de taille n x m les deux doive etre superieur a 3
 - [[chenilles]] ((n + m) x 2)
 - [[axe]] (n + m)
 - [[structure block]]
-- [[supention]]
+- [[suspention]]
