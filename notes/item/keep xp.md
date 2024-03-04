@@ -1,0 +1,1 @@
+permet de conserver l'xp de tout/e mob ou blocke cassé ou tué dans le cas ou il droperais de l'xp 

@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "913b0c7a1688e2ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "a532215ef14c09e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24c42a0ab20faff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "block/component/structure block.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b9606e46ec65f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "item/upgrade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "187edf3bb24228e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "item/luck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dca6561fe89f2e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "item/speed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc2b4534e3cd9241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "item/tool/machiine mounter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3132f61467598dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c100bb2e19dc1609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5995479e3b64c2f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dafac4b1cd6020be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bebeac26367379aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dbeda79311ace38",
+    "type": "split",
+    "children": [
+      {
+        "id": "067fb9b067d9ce70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a3d2b0a526ab85e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "block/component/structure block.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa6fccc6e8820056",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "block/component/structure block.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77b0f983a4b291ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f99f347850580ee3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "block/component/structure block.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24c42a0ab20faff5",
+  "lastOpenFiles": [
+    "notes",
+    "Nouveau dossier",
+    "block/component/chenilles.md",
+    "multiblocl machine/quary.md",
+    "block/component/axe.md",
+    "block",
+    "item/upgrade.md",
+    "item/speed.md",
+    "item/keep xp.md",
+    "item/luck.md",
+    "item/tool/machiine mounter.md",
+    "item/upgrade",
+    "item/tool",
+    "item",
+    "block/component/structure block.md",
+    "end game/belugium ingot.md",
+    "end game/dimansional crusher.md",
+    "multiblocl machine/component/Untitled",
+    "block/component",
+    "earli game/Untitled.md",
+    "multiblocl machine",
+    "earli game",
+    "end game/belugium dust.md",
+    "end game",
+    "belugium ingot/Untitled.md"
+  ]
+}
