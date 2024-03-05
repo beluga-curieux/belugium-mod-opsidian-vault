@@ -1,0 +1,1 @@
+permet d'augmenter la vitesse d'une machine au prix d'une quantiter exponeciel d'energie

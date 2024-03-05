@@ -1,0 +1,1 @@
+le mode qui contien tout les element indispencable au autre belugium mods ([[belugium machine]], [[belugium energie]]) il ajoute notament une nouvelle dimention dans le quelle ce trouve un nouveaux bosse, un nouveaux minerais : le [[belugium]]) et tout le stiuf derivé de ce minerais

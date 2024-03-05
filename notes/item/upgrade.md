@@ -3,6 +3,6 @@ elles ont un cout qui permet de faire en sorte de limiter leur nombre totale en 
 
 | upgrade       | coste | max lvl |
 | ------------- | ----- | ------- |
-| [[eficasité]] | 1     | 5       |
+| [[speed]] | 1     | 8       |
 | [[luck]]      | 2     | 3       |
 | [[keep xp]]   | 4     | 1       |
